@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IndoorPosData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sensor_monitor">SensorMonitor</string>
+
+    <string-array name="type_array">
+        <item>Walk</item>
+        <item>U-turn</item>
+        <item>Sit Down</item>
+        <item>Door Push</item>
+        <item>Door Pull</item>
+        <item>Stair Ascent</item>
+        <item>Stair Descent</item>
+        <item>Escalator (Up)</item>
+        <item>Escalator (Down)</item>
+    </string-array>
+</resources>
